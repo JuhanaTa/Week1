@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "es6,node,npm,git,etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuhanaTa/Week1.git"
+  },
+  "keywords": [
+    "es6",
+    "node",
+    "npm",
+    "git"
+  ],
+  "author": "Juhana Tamminen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JuhanaTa/Week1/issues"
+  },
+  "homepage": "https://github.com/JuhanaTa/Week1#readme"
+}
